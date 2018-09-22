@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.massinflux.scubatests" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cordova.apache.org/ns/1.0 ">
-  <name>Scuba Tests</name>
-  <description>Scuba Tests</description>
+<widget id="com.massinflux.scubatestpro" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cordova.apache.org/ns/1.0 ">
+  <name>Scuba Test Pro</name>
+  <description>Scuba Test Pro</description>
   <author email="admin@massinflux.com" href="https://massinflux.com">Massinflux</author>
   <content src="index.html"/>
   <access allows-arbitrary-loads-for-media="true" allows-arbitrary-loads-in-web-content="true" allows-local-networking="true" origin="*"/>
